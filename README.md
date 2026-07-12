@@ -15,10 +15,10 @@
 
 <br/>
 
-<a href="https://vinith-shetty.vercel.app">
+<a href="https://vinithportfolio.vinithshetty96.workers.dev">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/vinith-shetty">
+<a href="https://www.linkedin.com/in/vinith-shetty879">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:vinithshetty96@gmail.com">
@@ -149,7 +149,7 @@ Production-grade platform that automates pull-request analysis using LLMs, deliv
 | **Performance** | Real-time reviews auto-triggered via GitHub OAuth, webhooks, and REST APIs |
 | **Security** | OWASP-based detection of vulnerabilities, exposed secrets, and code smells |
 | **Impact** | Cut manual review effort while improving review consistency and developer productivity |
-| **Repository** | [View on GitHub »](https://github.com/VinithShetty) |
+| **Repository** | [View on GitHub »](https://github.com/VinithShetty/AI_Code_review_Assistant.git) |
 
 Architected an end-to-end AI review system: a scalable FastAPI microservices backend integrates with GitHub to trigger analysis on PR events, a Retrieval-Augmented Generation pipeline over Qdrant supplies contextual repository awareness, and an analytics dashboard surfaces review statistics, developer activity, and code-quality trends. The full application is containerized with Docker and Kubernetes and deployed through automated CI/CD with GitHub Actions.
 
@@ -168,7 +168,7 @@ Production-ready RAG chatbot that answers institutional queries accurately by co
 | **Performance** | Low-latency, high-quality responses via Groq inference APIs |
 | **Security** | Institution-scoped retrieval that minimizes irrelevant and off-topic answers |
 | **Impact** | Instant, context-aware information access for students, faculty, and visitors |
-| **Repository** | [Live Demo »](https://github.com/VinithShetty) |
+| **Repository** | [Live Demo »](https://vinith123-vcet-chatbot.hf.space/) |
 
 Built an embedding pipeline that indexes institutional documents for efficient semantic retrieval, integrated Groq for fast conversational inference, and optimized prompt engineering for answer accuracy. Delivered scalable FastAPI endpoints behind an interactive web interface so the entire campus community can self-serve institutional information.
 
@@ -187,7 +187,6 @@ Multilingual, voice-first healthcare assistant built at HackCelestial to improve
 | **Performance** | Real-time, natural voice interaction for hands-free use |
 | **Security** | Privacy-conscious, voice-driven query handling |
 | **Impact** | Bridges the rural healthcare accessibility gap with an intuitive voice interface |
-| **Repository** | [View on GitHub »](https://github.com/VinithShetty) |
 
 Developed during a competitive hackathon, SwasthSahayak applies conversational AI principles and voice-first design to make health information reachable for users who face literacy or connectivity barriers — turning a complex healthcare access problem into a simple spoken conversation.
 
@@ -243,17 +242,17 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 [![AWS](https://img.shields.io/badge/AWS-Certification-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-**Oracle**
+**IBM**
 
-[![Oracle](https://img.shields.io/badge/Oracle-Certification-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/IBM-Certification-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
-**NPTEL**
+**Infosys Springboard**
 
-[![NPTEL](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Infosys](https://img.shields.io/badge/Infosys-Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
-**Cisco**
+**HP**
 
-[![Cisco](https://img.shields.io/badge/Cisco-Certification-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![HP](https://img.shields.io/badge/HP-Certification-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)](#)
 
 </div>
 
@@ -357,13 +356,13 @@ Vinith Shetty:
 <a href="mailto:vinithshetty96@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/vinith-shetty">
+<a href="https://www.linkedin.com/in/vinith-shetty879">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/VinithShetty">
   <img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://vinith-shetty.vercel.app">
+<a href="https://vinithportfolio.vinithshetty96.workers.dev">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
