@@ -15,10 +15,10 @@
 
 <br/>
 
-<a href="https://vinithportfolio.vinithshetty96.workers.dev/">
+<a href="https://vinith-shetty.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/vinith-shetty879/">
+<a href="https://linkedin.com/in/vinith-shetty">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:vinithshetty96@gmail.com">
@@ -30,9 +30,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vinith-Shetty&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Vinith-Shetty?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Vinith-Shetty?label=Stars&style=for-the-badge&color=A855F7&logo=github&logoColor=white" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=VinithShetty&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/VinithShetty?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/VinithShetty?label=Stars&style=for-the-badge&color=A855F7&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
@@ -149,7 +149,7 @@ Production-grade platform that automates pull-request analysis using LLMs, deliv
 | **Performance** | Real-time reviews auto-triggered via GitHub OAuth, webhooks, and REST APIs |
 | **Security** | OWASP-based detection of vulnerabilities, exposed secrets, and code smells |
 | **Impact** | Cut manual review effort while improving review consistency and developer productivity |
-| **Repository** | [View on GitHub »](https://github.com/VinithShetty/AI_Code_review_Assistant.git) |
+| **Repository** | [View on GitHub »](https://github.com/VinithShetty) |
 
 Architected an end-to-end AI review system: a scalable FastAPI microservices backend integrates with GitHub to trigger analysis on PR events, a Retrieval-Augmented Generation pipeline over Qdrant supplies contextual repository awareness, and an analytics dashboard surfaces review statistics, developer activity, and code-quality trends. The full application is containerized with Docker and Kubernetes and deployed through automated CI/CD with GitHub Actions.
 
@@ -168,7 +168,7 @@ Production-ready RAG chatbot that answers institutional queries accurately by co
 | **Performance** | Low-latency, high-quality responses via Groq inference APIs |
 | **Security** | Institution-scoped retrieval that minimizes irrelevant and off-topic answers |
 | **Impact** | Instant, context-aware information access for students, faculty, and visitors |
-| **Repository** | [Live Demo »](https://vinith123-vcet-chatbot.hf.space/) |
+| **Repository** | [Live Demo »](https://github.com/VinithShetty) |
 
 Built an embedding pipeline that indexes institutional documents for efficient semantic retrieval, integrated Groq for fast conversational inference, and optimized prompt engineering for answer accuracy. Delivered scalable FastAPI endpoints behind an interactive web interface so the entire campus community can self-serve institutional information.
 
@@ -187,6 +187,7 @@ Multilingual, voice-first healthcare assistant built at HackCelestial to improve
 | **Performance** | Real-time, natural voice interaction for hands-free use |
 | **Security** | Privacy-conscious, voice-driven query handling |
 | **Impact** | Bridges the rural healthcare accessibility gap with an intuitive voice interface |
+| **Repository** | [View on GitHub »](https://github.com/VinithShetty) |
 
 Developed during a competitive hackathon, SwasthSahayak applies conversational AI principles and voice-first design to make health information reachable for users who face literacy or connectivity barriers — turning a complex healthcare access problem into a simple spoken conversation.
 
@@ -242,17 +243,17 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 [![AWS](https://img.shields.io/badge/AWS-Certification-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-**IBM**
+**Oracle**
 
-[![IBM](https://img.shields.io/badge/Oracle-Certification-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-Certification-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
-**Infosys Springboard**
+**NPTEL**
 
-[![Infosys](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![NPTEL](https://img.shields.io/badge/NPTEL-Certification-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
-**HP**
+**Cisco**
 
-[![HP](https://img.shields.io/badge/Cisco-Certification-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Cisco](https://img.shields.io/badge/Cisco-Certification-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)](#)
 
 </div>
 
@@ -262,10 +263,10 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4A00E0?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vinith-Shetty)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vinith-Shetty)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Vinith-Shetty)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Vinith-Shetty)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4A00E0?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/VinithShetty)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/VinithShetty)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/VinithShetty)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/VinithShetty)
 
 </div>
 
@@ -275,12 +276,12 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinith-Shetty&show_icons=true&hide_border=true&count_private=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&v=2" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinith-Shetty&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&langs_count=8&v=2" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinithShetty&show_icons=true&hide_border=true&count_private=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&v=2" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinithShetty&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117&langs_count=8&v=2" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinith-Shetty&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B92A6&v=2" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinithShetty&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B92A6&v=2" alt="GitHub Streak" />
 
 </div>
 
@@ -290,7 +291,7 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vinith-Shetty&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&v=2" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=VinithShetty&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&v=2" alt="GitHub Trophies" />
 
 </div>
 
@@ -300,7 +301,7 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinith-Shetty&bg_color=0D1117&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=4A00E0&hide_border=true&custom_title=Contribution%20Graph&v=2" alt="Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinithShetty&bg_color=0D1117&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=4A00E0&hide_border=true&custom_title=Contribution%20Graph&v=2" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
@@ -311,9 +312,9 @@ Designed and deployed a production-ready AI automation platform that streamlined
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinith-Shetty/Vinith-Shetty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinith-Shetty/Vinith-Shetty/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Vinith-Shetty/Vinith-Shetty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinithShetty/VinithShetty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinithShetty/VinithShetty/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/VinithShetty/VinithShetty/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -356,13 +357,13 @@ Vinith Shetty:
 <a href="mailto:vinithshetty96@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/vinith-shetty879">
+<a href="https://linkedin.com/in/vinith-shetty">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/VinithShetty">
   <img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://vinithportfolio.vinithshetty96.workers.dev/">
+<a href="https://vinith-shetty.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
