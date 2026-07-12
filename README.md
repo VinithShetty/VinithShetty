@@ -252,7 +252,7 @@ Designed and deployed a production-ready AI automation platform that streamlined
 
 **HP**
 
-[![HP](https://img.shields.io/badge/HP-Certification-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![HP](https://img.shields.io/badge/HP-Certification-8B5CF6?style=for-the-badge&logo=hp&logoColor=white)](#)
 
 </div>
 
