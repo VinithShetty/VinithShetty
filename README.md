@@ -40,7 +40,7 @@
 
 ## ▍About Me
 
-I'm an **AI Engineer** who builds production-grade intelligent systems — from **LLM and RAG architectures** to full-stack applications and automation pipelines that solve real business problems. My work sits at the intersection of **software engineering rigor** and **applied AI**: designing scalable **FastAPI** backends, engineering retrieval systems over **vector databases**, and shipping containerized services with **Docker, Kubernetes, and CI/CD**.
+I'm an **AI Engineer** at **iSN Global Solution**, who builds production-grade intelligent systems — from **LLM and RAG architectures** to full-stack applications and automation pipelines that solve real business problems. My work sits at the intersection of **software engineering rigor** and **applied AI**: designing scalable **FastAPI** backends, engineering retrieval systems over **vector databases**, and shipping containerized services with **Docker, Kubernetes, and CI/CD**.
 
 I care about the entire lifecycle — clean architecture, measurable impact, and systems that hold up in production, not just in a notebook. I approach every project with a **product engineering mindset**: understanding the problem, designing for scale, and shipping something people actually use. Currently completing my **B.E. in AI & Data Science** while building tools that turn manual workflows into intelligent automation.
 
