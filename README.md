@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Vinith%20Shetty&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&v=2" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=55&lines=AI+Engineer+%40+Production+Systems;LLM+%2B+RAG+%2B+AI+Agent+Architect;FastAPI+%7C+Python+%7C+Vector+Databases;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=680&height=55&lines=AI+Engineer+%40+iSN Global Solutions;LLM+%2B+RAG+%2B+AI+Agent+Architect;FastAPI+%7C+Python+%7C+Vector+Databases;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
 </a>
 
 <br/>
